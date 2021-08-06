@@ -42,7 +42,7 @@ Pode ficar a vontade para ir além se quiser, se divirta adicionando animações
 
 # Como começar
 
-- 1º - Faça um fork deste repositório e depois clone o repositorio.
+- 1º - Faça um fork deste repositório e depois clone o repositorio que estará disponível na sua conta do github.
 - 1º - Leia as instruções no Readme.md
 - 3º - Agora manda ver, começe a codar!!
 - 4º - Quando finalizar, fique a vontade para compartilhar com a comunidade!
