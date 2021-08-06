@@ -35,7 +35,7 @@ O seu desafio será construir a landing page de uma concessionária o mais fiel 
 
 Pode ficar a vontade para ir além se quiser, se divirta adicionando animações e mais dinamismo e vida á landing page!!!
 
-# Techs:
+# Tecnologias:
 
 - HTML
 - CSS
