@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <img src="https://raw.githubusercontent.com/lucianesantcs/get-coffee/master/design/mockup.png" alt="Get Coffee Design" width="960">
+    <img src="design/layout.jpg" alt="Dealership Design" width="960">
 
   <h3 align="center">Dealership</h3>
  <br />
