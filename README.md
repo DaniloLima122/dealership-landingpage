@@ -42,10 +42,10 @@ Pode ficar a vontade para ir além se quiser, se divirta adicionando animações
 
 # Como começar
 
-1 - Faça um fork deste repositório e depois clone o repositorio.
-2 - Leia as instruções no Readme.md
-3 - Agora manda ver, começe a codar!!
-4 - Quando finalizar, fique a vontade para compartilhar com a comunidade!
+- 1º - Faça um fork deste repositório e depois clone o repositorio.
+- 1º - Leia as instruções no Readme.md
+- 3º - Agora manda ver, começe a codar!!
+- 4º - Quando finalizar, fique a vontade para compartilhar com a comunidade!
 
 # Guia de estilos
 
