@@ -5,7 +5,7 @@
   <h3 align="center">Dealership</h3>
  <br />
   <p align="center">
-     Landing page de uma concessioaria
+     Landing page de uma concessionária
        <br />
     <br />
     Desafio
