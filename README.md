@@ -29,7 +29,7 @@
 
 # Desafio
 
-O seu desafio será construir a landing page de uma concessionária o mais fiel possível ao modelo disponível na pasta design desse repositório. 
+O seu desafio será construir a landing page de uma concessionária o mais fiel possível ao modelo disponível na pasta ´design´ desse repositório. 
 
 ## Indo além
 
