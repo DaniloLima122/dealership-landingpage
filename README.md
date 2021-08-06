@@ -49,7 +49,7 @@ Pode ficar a vontade para ir além se quiser, se divirta adicionando animações
 
 # Guia de estilos
 
-Dentro da pasta design você vai encontrar um arquivo chamado style-guide.md contendo informações sobre as cores, fontes breakpoints e etc.
+Dentro da pasta design você vai encontrar um arquivo chamado style-guide.md contendo informações sobre as cores, fontes, breakpoints e etc.
 
 # Assets
 
