@@ -59,7 +59,7 @@ Os arquivos, como imagens e icones você vai encontrar na pasta ./assets
 
 Tire um print, faça um gif ou vídeo para compartilhar o resultado com a #devchallenge ou marcando nosso perfil @devchallenge!<br>
 
-Design criado por <a href="www.linkedin.com/in/danilolma">Danilo Lima</a>
+Design criado por <a href="https://www.linkedin.com/in/danilolma">Danilo Lima</a>
 
 # Comunidade DevChallenge
 
